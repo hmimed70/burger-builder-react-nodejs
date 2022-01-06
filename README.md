@@ -18,3 +18,8 @@
    NODE_ENV = production
    NODE_ENV = development
 ```
+# Starting 
+
+```
+ npm run dev 
+```
