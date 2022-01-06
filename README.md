@@ -9,7 +9,7 @@
    4-  cd ..
 ```
 
-#. Create .env file and put this code inside 
+# Create .env file and put this code inside 
 
 ```
    JWT_SECRET=jwt-JWT_SECRET--EXAMPLE
