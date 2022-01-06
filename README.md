@@ -5,7 +5,7 @@
 ```
    1-  npm install 
    2-  cd client 
-   3-  npm iinstall
+   3-  npm install
    4-  cd ..
 ```
 
